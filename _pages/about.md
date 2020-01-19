@@ -13,11 +13,11 @@ he was studying at the time. https://en.wikipedia.org/wiki/Tricyclic_antidepress
 
 ### The People
 
-Chris Hughes - Sparkie, Rose lover and Dota 2 Meta aficionado
-Tom Malkin - Boring finance worker, half-finished project aficionado and
-Kyle Dunlop - Emergency Doctor, excuse aficionado and garden enthusiast
+ - Chris Hughes - Sparkie, Rose lover and Dota 2 Meta aficionado
+ - Tom Malkin - Boring finance worker, half-finished project aficionado and
+ - Kyle Dunlop - Emergency Doctor, excuse aficionado and garden enthusiast
 
 ### Contact Us
 
-TCACastAus@gmail.com
-facebook here
+ - TCACastAus@gmail.com
+ - facebook here
