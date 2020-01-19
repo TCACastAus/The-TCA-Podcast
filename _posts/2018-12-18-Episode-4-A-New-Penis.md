@@ -2,9 +2,9 @@
 layout: post
 title: "Episode 4 - A New Penis"
 date: 2018-12-18 15:00:00 +1100
-file: "https://ia801403.us.archive.org/18/items/TCACastEpisode20/Episode%2020.mp3"
-summary: "TCA Cast ep 1."
-description: "TCA Cast ep 1."
+file: https://ia801402.us.archive.org/26/items/episode4_202001/Episode%204.mp3
+summary: "TCA Cast ep 4."
+description: "TCA Cast ep 4."
 duration: "50.43"
 length: "102048847"
 explicit: "yes"
