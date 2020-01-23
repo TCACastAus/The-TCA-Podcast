@@ -16,4 +16,4 @@ guid: "7cf7f30d-2704-486d-892b-2df08802fd1f"
 
 ### Episode 4 - A New Penis
 
-Placeholder description
+What happens when you use a wedding ring on your genitals as a substitute for an action c**k ring? Should you grab your wedding ring and slip it on right now? All these questions and more will be answered in this week's episode of The TCA Podcast.
