@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Episode 6 - Return of the Fermi Paradox"
+date: 2018-12-20 15:00:00 +1100
+file: https://ia801502.us.archive.org/19/items/TCACastEpisode6/Episode%206.mp3
+summary: "TCA Cast ep 6."
+description: "TCA Cast ep 6."
+duration: "01.2.19"
+length: "151072578"
+explicit: "yes"
+keywords: "Comedy"
+block: "no"
+voices: "Chris Hughes, Tom Malkin and Kyle Dunlop"
+---
+
+### Episode 6 - Return of the Fermi Paradox
+
+Is there any other life in our universe? Have aliens come down to earth just to put expensive equipment up our sphincters? All these questions and more will be answered in this weeks episode of The TCA Podcast.
