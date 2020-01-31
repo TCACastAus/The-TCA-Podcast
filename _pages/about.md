@@ -13,8 +13,8 @@ Kyle (one of the original co-hosts) once forgot the name of the very podcast he 
 ### The People
 
  - Chris Hughes - Sparkie, Rose lover and Dota 2 Meta aficionado
- - Tom Malkin - Boring finance worker, half-finished project aficionado and
  - Kyle Dunlop - Emergency Doctor, excuse aficionado and garden enthusiast
+ - Tom Malkin - Boring finance worker, half-finished project aficionado and
 
 ### Contact Us
 
