@@ -3,5 +3,7 @@ _site/
 .jekyll-metadata
 Gemfile
 Gemfile.lock
+.jekyll-cache
+.ruby-version
 
 .venv

@@ -8,8 +8,7 @@ The TCA Podcast is really just a few Aussie blokes having a yarn about various t
 
 ### The Name
 
-Kyle (one of the original co-hosts) once forgot the name of the very podcast he was on, and thought it was the "TCA Cast", which is an antidepressant
-he was studying at the time. https://en.wikipedia.org/wiki/Tricyclic_antidepressant. Given this podcast gets millions of people through each day - the name stuck.
+Kyle (one of the original co-hosts) once forgot the name of the very podcast he was on, and thought it was the "TCA Cast", which is an [antidepressant](https://en.wikipedia.org/wiki/Tricyclic_antidepressant) he was studying at the time. Given this podcast gets millions of people through each day - the name stuck.
 
 ### The People
 
@@ -19,5 +18,7 @@ he was studying at the time. https://en.wikipedia.org/wiki/Tricyclic_antidepress
 
 ### Contact Us
 
- - TCACastAus@gmail.com
- - facebook here
+Feedback (good or bad) is very welcome, find us here:
+
+ - email: TCACastAus@gmail.com
+ - [facebook](https://www.facebook.com/thetcacast/)
